@@ -21,8 +21,8 @@ A turnkey Docker environment for running **Drupal 11 in Headless / API-first mod
 
 ### 1. Prerequisites
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running
-- `make` available in your terminal (`brew install make` on macOS if needed)
+- [Docker](https://www.docker.com/get-started) (Desktop or Engine) installed and running
+- **Make** installed in your system (Standard on most Unix/Linux systems)
 
 ### 2. Configure environment
 
